@@ -5986,6 +5986,15 @@
             "puntuacion": 3,
             "jugadores": 1,
             "estado" : true
+        },
+        {
+            "id" : 706,
+            "texto": "jugador1, ¿piensas que alguno de tus amigos cercanos es un poco creído?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
         }
     ]
 }
