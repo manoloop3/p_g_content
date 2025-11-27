@@ -1,0 +1,5992 @@
+{
+
+    "version": "0.0.31",
+    "pruebas": [
+        {
+            "id" : 0,
+            "texto": "jugador1, ¿te depilas tus partes íntimas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 1,
+            "texto": "jugador1, ¿has tenido alguna vez una relación íntima en el instituto, universidad o trabajo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 2,
+            "texto": "jugador1, ¿qué prefieres, un año sin poder ver a tu familia o un año sin poder ver a tus amigos?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 3,
+            "texto": "jugador1, ¿has estado alguna vez en una tienda de juguetes íntimos?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 4,
+            "texto": "jugador1, ¿alguna vez te has enamorado mucho de alguien y lo has mantenido en secreto?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 5,
+            "texto": "jugador1, si tu pareja te fuese infiel, ¿qué harías?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 6,
+            "texto": "jugador1, ¿alguna vez te has planteado tu identidad sexual?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 7,
+            "texto": "jugador1, ¿alguna vez te has planteado tu orientación sexual?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 8,
+            "texto": "jugador1, ¿te has depilado esta semana?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 9,
+            "texto": "jugador1, ¿sospechas de la orientación sexual de algunos de los presentes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 10,
+            "texto": "jugador1, ¿alguna vez te has escapado de casa?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 11,
+            "texto": "jugador1, ¿alguna vez has arreglado una discusión con haciéndo el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 12,
+            "texto": "jugador1, ¿cuál es el plato que mejor te sale en la cocina?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 13,
+            "texto": "jugador1, Si pudieras elegir tener un súper superpoder, ¿cuál sería?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 14,
+            "texto": "jugador1, ¿alguna vez has vomitado de fiesta?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 15,
+            "texto": "jugador1, ¿alguna vez de fiesta te ha tenido que cuidar alguien porque has acabado muy mal?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 16,
+            "texto": "jugador1, ¿con cuántas personas te has besado en una misma noche de fiesta?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 17,
+            "texto": "jugador1, ¿alguna vez has tenido que cuidar a una persona que ha acabado mal una noche de fiesta?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 18,
+            "texto": "jugador1, ¿alguna vez te has despertado en un lugar inesperado?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 19,
+            "texto": "jugador1, ¿alguna vez has hecho el amor en un lugar público?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 20,
+            "texto": "jugador1, ¿te has desnudado alguna vez en un lugar público?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 21,
+            "texto": "jugador1, ¿de que te gustaría trabajar?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 22,
+            "texto": "jugador1, ¿tienes algún fetiche?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 23,
+            "texto": "jugador1, ¿alguna vez te has saltado clases?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 24,
+            "texto": "jugador1, ¿te has peleado con alguien alguna vez?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 25,
+            "texto": "jugador1, ¿te da vergüenza hablarle a alguien de los presentes?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 26,
+            "texto": "jugador1, ¿has tenido que fingir una personalidad para integrarte alguna vez?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 27,
+            "texto": "jugador1, ¿te has vestido alguna vez de tu sexo opuesto?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 28,
+            "texto": "jugador1, Si fueras artista, ¿que tipo de artista serías?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 29,
+            "texto": "jugador1, si pudieras ser un famoso actual durante un día, ¿quién serías?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 30,
+            "texto": "jugador1, ¿cuáles han sido tus peores vacaciones y por qué?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 31,
+            "texto": "jugador1, ¿quién es para ti la persona más generosa de los presentes?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 32,
+            "texto": "jugador1, ¿quién es para ti la persona menos generosa de los presentes?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 33,
+            "texto": "jugador1, ¿quién es para ti la persona menos sociable de los presentes?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 34,
+            "texto": "jugador1, ¿crees en los horóscopos?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 35,
+            "texto": "jugador1, si esta noche ganases mil euros, ¿qué harías con ellos?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 36,
+            "texto": "jugador1, ¿cuál es la cosa más loca que has hecho por amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 37,
+            "texto": "jugador1, ¿cuál es la cosa más loca que has hecho en estado de embriaguez?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 38,
+            "texto": "jugador1, ¿has fumado algo ilegal alguna vez?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 39,
+            "texto": "jugador1, ¿te han pillado tus padres alguna vez fumando algo ilegal?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 40,
+            "texto": "jugador1, ¿te han pillado alguna vez tocándote?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 41,
+            "texto": "jugador1, ¿cambiarías algo de tu cuerpo? ¿el qué?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 42,
+            "texto": "jugador1, ¿has vendido alguna vez algún regalo que te han hecho?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 43,
+            "texto": "jugador1, si tuvieras que intercambiar tu cuerpo durante un día con el de alguien de los presentes, ¿con quién sería?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 44,
+            "texto": "jugador1, cuéntanos una anécdota que te haya pasado en un baño público",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 45,
+            "texto": "jugador1, cuentános un secreto de tu infancia.",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 46,
+            "texto": "jugador1, si pudieras viajar en el tiempo, ¿a qué época irías?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 47,
+            "texto": "jugador1, si pudieras viajar en el tiempo, ¿preferirías ir al pasado o al futuro?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 48,
+            "texto": "jugador1, ¿has abandonado alguna vez a un amigo en una situación difícil?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 49,
+            "texto": "jugador1, ¿has abandonado una antigua pasión? En caso afirmativo, ¿cuál?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 50,
+            "texto": "jugador1, ¿que es lo que hace jugador2 que te enfada?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 51,
+            "texto": "jugador1, ¿cuál fue tu primera impresión de jugador2?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion":3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 52,
+            "texto": "jugador1, ¿cuál crees que es la película más mala de la historia?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 53,
+            "texto": "jugador1, ¿cuál crees que es la mejor película de la historia?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 54,
+            "texto": "jugador1, si tuvieras que besar a alguien de los presentes, ¿a quién sería?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 55,
+            "texto": "jugador1, ¿cómo de grande es tu pene o que talla de sujetador utilizas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 56,
+            "texto": "jugador1, ¿cuándo fue la última que viste una película para adultos?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 57,
+            "texto": "jugador1, ¿has tenido un sueño erótico con alguien de los presentes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 58,
+            "texto": "jugador1, si tuvieras qué elegir entre que jugador2 viera tus DMs o Whatsapps, ¿qué elegirías?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 59,
+            "texto": "jugador1, ¿quién crees que es el jugador más guapo de los presentes?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 60,
+            "texto": "jugador1, ¿qué edad tenías la primera vez que te tocaste?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 61,
+            "texto": "jugador1, ¿qué juguete sexual te gustaría tener?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 62,
+            "texto": "jugador1, ¿en qué lugar especial te gustaría hacer el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 63,
+            "texto": "jugador1, ¿te has sentido atraído alguna vez por la pareja de un amigo o amiga?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 64,
+            "texto": "jugador1, si tuvieras que dormir con uno de los presentes, ¿quién sería?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 65,
+            "texto": "jugador1, ¿has sido sorprendido alguna vez mientras te tocabas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 66,
+            "texto": "jugador1, ¿has pillado por sorpresa a alguien haciendo el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 67,
+            "texto": "jugador1, ¿quién crees que es la persona que más liga de los presentes?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 68,
+            "texto": "jugador1, si tu orientación sexual fuera distinta, ¿a quién de los presentes le tirarías la caña?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 69,
+            "texto": "jugador1, ¿con quién te casarías de los presentes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 70,
+            "texto": "jugador1, ¿con que dos personas de las presentes formarías una pareja poliamorosa?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 71,
+            "texto": "jugador1, ¿alguna vez has tenido tentaciones con otras personas teniendo pareja?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 72,
+            "texto": "jugador1, ¿qué es lo que más vergüenza te da de tu pasado?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 73,
+            "texto": "jugador1, ¿qué es lo que más vergüenza te da hacer?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 74,
+            "texto": "jugador1, ¿quién es para ti el que menos se cuida de aquí?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 75,
+            "texto": "jugador1, nombra una persona que odias y explica por qué",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 76,
+            "texto": "jugador1, cuenta como fue tu primer rechazo amoroso",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 77,
+            "texto": "jugador1, cuenta una de las mayores mentiras que has dicho y por qué",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 78,
+            "texto": "jugador1, ¿qué es lo que más te gusta de tu personalidad?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 79,
+            "texto": "jugador1, ¿qué es lo que menos te gusta de tu personalidad?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 80,
+            "texto": "jugador1, ¿qué es lo que más te gusta de tu físico?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 81,
+            "texto": "jugador1, ¿qué es lo que menos te gusta de tu físico?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 82,
+            "texto": "jugador1, muestra tus últimas búsquedas en Google",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 83,
+            "texto": "jugador1, has ganado un viaje de dos personas, ¿con quién de los presentes te gustaría ir?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 84,
+            "texto": "jugador1, ¿quién cuenta mejor los chistes de aquí?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 85,
+            "texto": "jugador1, ¿qué es lo peor que le has hecho a alguien y por qué?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 86,
+            "texto": "jugador1, di un defecto de la persona que tienes a tu izquierda",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 87,
+            "texto": "jugador1, si pudieras borrar algo de tu memoria, ¿qué sería?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 88,
+            "texto": "jugador1, ¿cuál es la parte del cuerpo de jugador2 que más te gusta?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 89,
+            "texto": "jugador1, ¿cuál fue el último mensaje de texto que enviaste?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 90,
+            "texto": "jugador1, cuenta un comentario que te haya hecho alguien y que te haya hecho sentir mal",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 91,
+            "texto": "jugador1, cuenta algo que hayas hecho borracho que nunca hubieras hecho sobrio",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 92,
+            "texto": "jugador1, ¿quién es la persona más inapropiada con la que has soñado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 93,
+            "texto": "jugador1, ¿qué es lo que más miedo te da?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 94,
+            "texto": "jugador1, cuenta lo más aventurero que has hecho",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 95,
+            "texto": "jugador1, ¿cuál ha sido tú último encuentro amoroso?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 96,
+            "texto": "jugador1, ¿qué es lo más infantil que haces a tu edad?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 97,
+            "texto": "jugador1, di una cantidad de dinero que estarías dispuesto a pagar por hacer el amor",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 98,
+            "texto": "jugador1, di una cantidad de dinero que estarías dispuesto a pagar por ropa",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 99,
+            "texto": "jugador1, si te apuntaran con una pistola y te dejaran vivir a cambio de que te cortaran una parte del cuerpo, ¿qué parte te cortarías?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 100,
+            "texto": "jugador1, si te apuntaran con una pistola y te dejaran vivir a cambio la vida de alguno de los presentes, ¿a quién elegirías?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 101,
+            "texto": "jugador1, ¿qué es lo que más te gusta del sexo opuesto?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 102,
+            "texto": "jugador1, deja que jugador2 te de una suave bofetada en la mejilla",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 103,
+            "texto": "jugador1, cuenta tu talento secreto",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 104,
+            "texto": "jugador1, si te quedara un día de vida, ¿qué cosas harías?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 105,
+            "texto": "jugador1, cuenta la cosa que más feliz te hace",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 106,
+            "texto": "jugador1, cuenta qué haces cuando estás triste",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 107,
+            "texto": "jugador1, muestra el último mensaje de whatsapp que has enviado",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 108,
+            "texto": "jugador1, ¿piensas que hay algún motivo por el que está justificado ser infiel? En caso afirmativo, ¿cuál?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 109,
+            "texto": "jugador1, ¿has mentido alguna vez para no hacer daño a alguien?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 110,
+            "texto": "jugador1, ¿has mentido alguna vez en este juego?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 111,
+            "texto": "jugador1, ¿que es lo que harías si supieras que no habría consecuencias?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 112,
+            "texto": "jugador1, cuenta el sueño más raro que has tenido",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 113,
+            "texto": "jugador1, ¿qué es lo más vergonzoso que has hecho delante de tus padres?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 114,
+            "texto": "jugador1, ¿tendrías una cita a ciegas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 115,
+            "texto": "jugador1, ¿piensas que es posible encontrar el amor verdadero en una app de citas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" :116,
+            "texto": "jugador1, ¿alguna vez has regalado algo a alguien que te han regalado a ti?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 117,
+            "texto": "jugador1, ¿qué rasgo físico te hace recibir más cumplidos?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 118,
+            "texto": "jugador1, ¿qué es lo mejor que han hecho por ti?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 119,
+            "texto": "jugador1, ¿alguna vez has encubierto a un amigo que engañaba a su pareja?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 120,
+            "texto": "jugador1, cuenta algo que te gustaría que la gente supiera de ti",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 121,
+            "texto": "jugador1, ¿a quién has mentido más de aquí?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 122,
+            "texto": "jugador1, si tuvieras que elegir a alguien para dejarle las llaves de tu casa, ¿a quién elegirías?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 123,
+            "texto": "jugador1, si tuvieras que elegir a alguien para dejarle las llaves de tu coche, ¿a quién elegirías?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 124,
+            "texto": "jugador1, ¿cómo consideras que son tus fantasías sexuales? ¿Son sencillas, morbosas o muy morbosas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 125,
+            "texto": "jugador1, ¿quién crees que tiene más posibilidades de ser infiel de los presentes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 126,
+            "texto": "jugador1, ¿quién tiene más posibilidades de hacerse rico aquí?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 127,
+            "texto": "jugador1, ¿quién es el más tacaño de los presentes?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 128,
+            "texto": "jugador1, ¿has usado twitter para ver algo que no te gustaría que supieran?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 129,
+            "texto": "jugador1, ¿alguna vez has stalkeado a tu ex después de la ruptura?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 130,
+            "texto": "jugador1, ¿estás a favor del aborto?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 131,
+            "texto": "jugador1, ¿te has arrepentido alguna vez de haber salido con alguien?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 132,
+            "texto": "jugador1, ¿cuál es uno de los mejores recuerdos que tienes?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 133,
+            "texto": "jugador1, ¿qué es lo más desagradable que has hecho hoy?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 134,
+            "texto": "jugador1, ¿por qué eligió a su pareja y no a otra?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 135,
+            "texto": "jugador1, ¿qué música escuchas solo y nunca o casi nunca en compañía?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 136,
+            "texto": "jugador1, ¿quién es la persona que más le inspira de los presentes?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 137,
+            "texto": "jugador1, si obligatoriamente tuvieras que conocer de nuevo a alguien de los presentes, ¿quién sería?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 138,
+            "texto": "jugador1, si obligatoriamente tuvieras que olvidar todos los recuerdos con alguien de aquí, ¿quién sería?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 139,
+            "texto": "jugador1, ¿con cuántas personas has tenido relaciones sexuales?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 140,
+            "texto": "jugador1, ¿has tenido relaciones sexuales más de 5 veces en una semana?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 141,
+            "texto": "jugador1, ¿cómo calificarías la apariencia de jugador2 de 1 a 10?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 142,
+            "texto": "jugador1, ¿quién va peor vestido, jugador2 o jugador3?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 3,
+            "estado" : true
+        },
+        {
+            "id" : 143,
+            "texto": "jugador1, ¿alguna vez te has equivocado de nombre llamando a alguien mientras hacías el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 144,
+            "texto": "jugador1, ¿en quién confías más, en jugador2 o jugador3?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 3,
+            "estado" : true
+        },
+        {
+            "id" : 145,
+            "texto": "jugador1, susurra tu fetiche favorito a jugador2",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 146,
+            "texto": "jugador1, ¿prefieres dormir con el cuerpo de jugador2 que tiene la cabeza de jugador3 o al revés?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 3,
+            "estado" : true
+        },
+        {
+            "id" : 147,
+            "texto": "jugador1, ¿prefieres ir a una fiesta con jugador2 o con jugador3?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 3,
+            "estado" : true
+        },
+        {
+            "id" : 148,
+            "texto": "jugador1, ¿crees en el amor a primera vista?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 149,
+            "texto": "jugador1, ¿has besado a alguno de los presentes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 150,
+            "texto": "jugador1, ¿has hecho el amor con alguno de los presentes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 151,
+            "texto": "jugador1, ¿has besado a alguien que considerabas poco atractivo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 152,
+            "texto": "jugador1, ¿romperías una relación a cambio de un millón de euros?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 153,
+            "texto": "jugador1, si tu pareja odiara a tu mejor amigo, ¿que harías?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 154,
+            "texto": "jugador1, ¿si tuvieras que elegir entre tu pareja y tu familia, a quién elegirías?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 155,
+            "texto": "jugador1, ¿con qué frecuencia te miras al espejo antes de ir a una cita?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 156,
+            "texto": "jugador1, ¿has presumido alguna vez de tu pareja ante tus amigos?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 157,
+            "texto": "jugador1, podrías pasar dos meses sin ver a tu pareja?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 158,
+            "texto": "jugador1, ¿te has sentido atraído alguna vez por la expareja de un amigo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 159,
+            "texto": "jugador1, ¿te has sentido atraído alguna vez por la pareja de un amigo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 160,
+            "texto": "jugador1, ¿cuándo fue la última vez que hiciste el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 161,
+            "texto": "jugador1, ¿quién de los presentes tiene los ojos más bonitos para ti?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 162,
+            "texto": "jugador1, ¿alguna vez has llevado ropa interior del sexo opuesto?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 163,
+            "texto": "jugador1, ¿cuál es tu lugar favorito para hacer el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 164,
+            "texto": "jugador1, ¿qué es lo más loco que has hecho en la cama?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 165,
+            "texto": "jugador1, ¿qué es lo más loco que has hecho desnudo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 166,
+            "texto": "jugador1, ¿crees en el matrimonio?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 167,
+            "texto": "jugador1, ¿has hecho el amor en un barco?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 168,
+            "texto": "jugador1, ¿cuál sería la edad límite de la persona con la que te podrías hacer el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 169,
+            "texto": "jugador1, ¿alguna vez has pensado en otra persona mientras hacías el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 170,
+            "texto": "jugador1, ¿alguna vez has pensado en otra persona mientras besabas a alguien?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 171,
+            "texto": "jugador1, ¿a qué personaje famoso se le puede parecer jugador2?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 172,
+            "texto": "jugador1, ¿cómo crees que debes tener los ojos cuando besas a alguien, abiertos o cerrados?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 173,
+            "texto": "jugador1, si pudieras tener cualquier cosa en el mundo, ¿qué sería?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 174,
+            "texto": "jugador1, ¿prefieres hacerlo con la luz encendida o apagada?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 175,
+            "texto": "jugador1, ¿has pedido alguna vez el número de teléfono de un desconocido para tener una cita con él?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 176,
+            "texto": "jugador1, ¿a qué edad perdiste tu virginidad?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 177,
+            "texto": "jugador1, ¿a qué edad diste tu primer beso?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 178,
+            "texto": "jugador1, ¿te gustaría tirar del pelo de tu pareja mientras haces el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 179,
+            "texto": "jugador1, ¿prefieres besarte con alguien en un cine o en el asiento de atrás de un coche?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 180,
+            "texto": "jugador1, ¿quién es la persona más guapa con la que has estado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 181,
+            "texto": "jugador1, ¿prefieres ponerte encima o debajo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 182,
+            "texto": "jugador1, ¿has hecho el amor en cama de tus padres?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 183,
+            "texto": "jugador1, ¿has tenido algún tipo de relación sexual en un autobús?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 184,
+            "texto": "jugador1, ¿has hecho el amor en la playa?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 185,
+            "texto": "jugador1, ¿cuándo fue la última vez que te tocaste?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 186,
+            "texto": "jugador1, ¿qué valoras más el amor o el dinero?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 187,
+            "texto": "jugador1, ¿podrías tener una pareja sin hacer nunca el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 188,
+            "texto": "jugador1, ¿podrías tener una pareja a distancia?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 189,
+            "texto": "jugador1, ¿has hecho el amor en una piscina o en jacuzzi?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 190,
+            "texto": "jugador1, ¿te gusta hacer el amor silencioso o no te importa hacer ruido?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 191,
+            "texto": "jugador1, si pudieras casarte con más de una persona, ¿lo harías?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 192,
+            "texto": "jugador1, ¿tu primera vez fue buena o mala?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 193,
+            "texto": "jugador1, ¿has tenido alguna vez sueños húmedos?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 194,
+            "texto": "jugador1, ¿cómo descubres que una persona te está mintiendo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 195,
+            "texto": "jugador1, ¿cómo descubres que una persona te está gustando?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 196,
+            "texto": "jugador1, di un método que creas que es capaz de poner a una mujer caliente al instante",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 197,
+            "texto": "jugador1, di un método que creas que es capaz de poner a un hombre caliente al instante",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 198,
+            "texto": "jugador1, ¿qué cosa nunca estarías dispuesto a probar en la cama?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 199,
+            "texto": "jugador1, ¿alguna vez has sido infiel?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 200,
+            "texto": "jugador1, ¿irías a un local de striptease?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 201,
+            "texto": "jugador1, ¿te has duchado con alguien del mismo sexo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 202,
+            "texto": "jugador1, ¿te has duchado con alguien de tu sexo opuesto?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 203,
+            "texto": "jugador1, ¿dónde tienes más cosquillas?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 204,
+            "texto": "jugador1, ¿te gusta terminar dentro o fuera?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 205,
+            "texto": "jugador1, ¿cuáles crees que son las tres cosas más importantes para mantener una relación sana?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 206,
+            "texto": "jugador1, ¿quién es la persona que mejor besa de todas las que has besado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 207,
+            "texto": "jugador1, ¿crees que el tamaño importa?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 208,
+            "texto": "jugador1, ¿qué crees que podría estropear el ambiente sensual en una cita?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 209,
+            "texto": "jugador1, ¿te has sentido alguna vez acosado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 210,
+            "texto": "jugador1, ¿has tenido alguna vez fantasías sexuales con alguien de tu familia?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 211,
+            "texto": "jugador1, ¿has tenido alguna vez fantasías con alguien de tu mismo sexo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 212,
+            "texto": "jugador1, ¿te gustaría tener hijos? ¿cuántos?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 213,
+            "texto": "jugador1, ¿has visto a alguno de los presentes desnudo o te han visto a ti desnudo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 214,
+            "texto": "jugador1, ¿harías el amor con varias personas a la vez?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 215,
+            "texto": "jugador1, ¿harías un trío?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 216,
+            "texto": "jugador1, si tuvieras que hacerte un tatuaje, ¿cuál sería y en qué lugar de tu cuerpo?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 217,
+            "texto": "jugador1, ¿cuáles son para ti los pros y los contras de tener pareja?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 218,
+            "texto": "jugador1, ¿cuáles son para ti los pros y los contras de estar soltero/a?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 219,
+            "texto": "jugador1, ¿has quedado con gente que has conocido en una app de citas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 220,
+            "texto": "jugador1, si pudieras hacer el amor con cualquier persona del mundo, ¿con quién sería?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 221,
+            "texto": "jugador1, describe en tres palabras como eres en la cama",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 222,
+            "texto": "jugador1, si tuvieras que mostrarte sin ropa frente a alguien de los presentes, ¿quién sería?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 223,
+            "texto": "jugador1, ¿has tenido alguna vez una relación con alguien con quien no querías tenerla antes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 224,
+            "texto": "jugador1, ¿te gusta tener música de fondo mientras haces el amor? Y si es así, ¿qué tipo de música?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 225,
+            "texto": "jugador1, ¿has enviado fotos o videos de ti desnudo a alguien por una red social?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 226,
+            "texto": "jugador1, ¿quién es tu mejor amigo o amiga?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 227,
+            "texto": "jugador1, ¿cuál es el número máximo de polvos que has tenido en un día?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 228,
+            "texto": "jugador1, ¿a qué edad te enamoraste por primera vez?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 229,
+            "texto": "jugador1, tu pareja te engañó, y por despecho te vas a la cama con otra persona, ¿con quien vas? Debes elegir entre un exnovio, un amigo o cualquier desconocido",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 230,
+            "texto": "jugador1, ¿estarías con alguien solo por su físico?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 231,
+            "texto": "jugador1, ¿estarías con alguien solo por su personalidad?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 232,
+            "texto": "jugador1, ¿estarías con alguien solo por dinero?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 233,
+            "texto": "jugador1, ¿a qué edad descubriste el acto amoroso? ¿Cómo lo descubriste?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 234,
+            "texto": "jugador1, ¿cuántas veces has sentido que has estado enamorado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 235,
+            "texto": "jugador1, ¿alguna vez has sentido estar al límite? ¿Si es que sí, por qué?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 237,
+            "texto": "jugador1, juega papel, piedra o tijera con el jugador2, si ganas debes darle un pico, si pierdes, te dará una cachetada",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 238,
+            "texto": "jugador1, ¿qué profesión tendría tu otro yo en un mundo paralelo?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 239,
+            "texto": "jugador1, ¿irías a una playa nudista?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 244,
+            "texto": "jugador1, ¿tragas o escupes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 245,
+            "texto": "jugador1, ¿te has tocado alguna vez con fotos de instagram?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 246,
+            "texto": "jugador1, ¿alguna vez tú o tu pareja sexual ha tenido que tomar la píldora del día después?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 247,
+            "texto": "jugador1, ¿has tenido un sueño húmedo alguna vez con alguno de los presentes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 248,
+            "texto": "jugador1, ¿te gusta que te escupan? ¿dónde?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 249,
+            "texto": "jugador1, ¿te has suscrito alguna vez a una página de adultos de pago?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 250,
+            "texto": "jugador1, ¿dominar o ser dominado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 251,
+            "texto": "jugador1, ¿cuál es la máxima diferencia de edad que tuviste estando con una persona menor que tú?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 252,
+            "texto": "jugador1, ¿quién crees que la tiene más grande de los presentes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 253,
+            "texto": "jugador1, cuenta tu mayor morbo",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 254,
+            "texto": "jugador1, ¿tienes juguetes sexuales?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 255,
+            "texto": "jugador1, aparte de tu zona íntima, ¿tienes alguna zona del cuerpo donde si te tocan vuelas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 256,
+            "texto": "jugador1, ¿estarías con un familiar de alguno de los presentes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 257,
+            "texto": "jugador1, ¿te gusta que te agarren del cuello?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 258,
+            "texto": "jugador1, ¿te gusta agarrar del cuello?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 260,
+            "texto": "jugador1, ¿has hecho el amor en un coche?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 261,
+            "texto": "jugador1, ¿cuánto duró tu relación más larga?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 262,
+            "texto": "jugador1, ¿cuánto duró tu relación más corta?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 263,
+            "texto": "jugador1, ¿crees en los fantasmas o en lo paranormal?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 264,
+            "texto": "jugador1, ¿en qué te fijas primero de una persona?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 265,
+            "texto": "jugador1, ¿te gusta el anime?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 266,
+            "texto": "jugador1, ¿cuál es tu videojuego preferido?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 267,
+            "texto": "jugador1, ¿crees que existe vida fuera de la tierra?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 268,
+            "texto": "jugador1, ¿has salido alguna vez en televisión? ¿Cómo fue?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 269,
+            "texto": "jugador1, di cinco comidas que sepas cocinar",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 270,
+            "texto": "jugador1, ¿has orinado alguna vez en una piscina?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 271,
+            "texto": "jugador1, ¿le has cogido algo prestado alguna vez a tus padres sin que se den cuenta?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 272,
+            "texto": "jugador1, si tuvieras que elegir una comida para comer el resto de tu vida, ¿cuál sería?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 273,
+            "texto": "jugador1, ¿qué harías si pudieras tener el sexo opuesto por una semana?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 274,
+            "texto": "jugador1, ¿hace cuánto no vas al gym?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 277,
+            "texto": "jugador1, ¿has orinado alguna vez en la calle?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 278,
+            "texto": "jugador1, si tu casa prendiera en fuego, ¿qué cuatro cosas salvarías?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 279,
+            "texto": "jugador1, ¿has hecho popó en la calle alguna vez?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 280,
+            "texto": "jugador1, ¿has hecho popó en la playa alguna vez?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 281,
+            "texto": "jugador1, ¿cuál es el objeto más raro que tienes en tu cuarto?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 282,
+            "texto": "jugador1, ¿cuál es la sustancia más rara que has consumido?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 283,
+            "texto": "jugador1, ¿te depilas con crema, cuchilla, láser o maquinilla?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 285,
+            "texto": "jugador1, masajea los hombros de jugador2 durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 286,
+            "texto": "jugador1, deja tu teléfono desbloqueado a la persona que elijas durante 15 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 287,
+            "texto": "jugador1, intercambia cualquier prenda con jugador2",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 288,
+            "texto": "jugador1, susurra algo al oído de el jugador que tienes a tu derecha",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 289,
+            "texto": "jugador1, tienes que llamar a alguien de tus contactos, poner una voz sensual y decirle: Hola amor, ¿cómo estás? ¿me echas de menos?",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 290,
+            "texto": "jugador1, no te puedes mover hasta tu siguiente turno, si fallas, te quedarás dos turnos sin jugar y se deben marcar como no realizados",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 291,
+            "texto": "jugador1, debes gritar durante 15 segundos la palabra: ¡PAPÁ!",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 292,
+            "texto": "jugador1, tienes que convencer a alguien de los presentes para que te de un pico, si está de acuerdo, se lo das, si no, pierdes la prueba",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 293,
+            "texto": "jugador1, bésale el codo a jugador2",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 294,
+            "texto": "jugador1, lee en voz alta tus últimas cinco busquedas en google",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 295,
+            "texto": "jugador1, convence a alguien para quitarle una prenda de ropa, si está de acuerdo, se la quitas, si no, pierdes la prueba",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 296,
+            "texto": "jugador1, dale un abrazo a jugador2",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 297,
+            "texto": "jugador1, mira a jugador2 sensualmente hasta que termine el siguiente turno",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 298,
+            "texto": "jugador1, convence a alguien para morderle suave, superas la prueba si lo consigues, si no, pierdes la prueba",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 301,
+            "texto": "jugador1, besa con delicadeza la mano de jugador2",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 302,
+            "texto": "jugador1, tienes que intentar seducir a jugador2 durante 30 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 303,
+            "texto": "jugador1, sopla en la oreja a jugador2",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 304,
+            "texto": "jugador1, hasta que te toque en el próximo turno, tienes que acabar todas tus frases en: Ayy que rico",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 306,
+            "texto": "jugador1, toma de la mano a jugador2, y pídele matrimonio",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 307,
+            "texto": "jugador1, acaricia con sensualidad el torso de jugador2 durante 15 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 308,
+            "texto": "jugador1, tienes que quitarte una prenda",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 309,
+            "texto": "jugador1, dibuja en la espalda de jugador2 un número de dos cifras, si jugador2 acierta el número, superas la prueba",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 310,
+            "texto": "jugador1, enseña tus mejores dotes para ligar, prueba con jugador2 durante 30 segundos, jugador2 decide si superas la prueba o no",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 311,
+            "texto": "jugador1, sopla con suavidad a jugador2 en el cuello",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 312,
+            "texto": "jugador1, no podrás moverte durante 30 segundos, en ese tiempo, jugador2 puede hacer lo que quiera contigo, pero sin tocarte",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 313,
+            "texto": "jugador1, hazle cosquillas a jugador2 durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 314,
+            "texto": "jugador1, cambia tu foto de perfil de whatsapp por una foto de jugador2 hasta que pasen tus tres turnos siguientes",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 315,
+            "texto": "jugador1, haz como si te maquillaras la cara frente a un espejo imaginario durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 316,
+            "texto": "jugador1, activa una alarma para las 7 de la mañana en tu móvil",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 317,
+            "texto": "jugador1, tienes que contar una historia junto al jugador2, tenéis un minuto, cada uno dirá una frase, y el otro tendrá que continuar la historia",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 318,
+            "texto": "jugador1, di tres cosas que no te gustan de jugador2, mientras deberás poner una sonrisa muy forzada",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 319,
+            "texto": "jugador1, deja tu movil en el centro de la mesa y no lo podrás coger hasta que pasen cinco turnos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 320,
+            "texto": "jugador1, ahora eres un influencer, tienes que simular que estás haciendo un video para tus redes sociales durante 30 segundos, jugador2 lo debe de grabar o simular que lo hace",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 321,
+            "texto": "jugador1, hasta tu siguiente turno habla en voz muy alta, como si nadie pudiera oirte",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 322,
+            "texto": "jugador1, imita a alguien de los presentes únicamente con gestos durante 30 segundos, si jugador2 lo adivina, superas la prueba",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 323,
+            "texto": "jugador1, imita a un animal solo con gestos durante 30 segundos, si jugador2 lo adivina, superas la prueba",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 324,
+            "texto": "jugador1, haz 5 flexiones de brazos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 325,
+            "texto": "jugador1, baila lo que quieras durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 326,
+            "texto": "jugador1, hasta tu siguiente turno habla susurrando, como si hubieras pasado una gran noche cantando en una fiesta",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 327,
+            "texto": "jugador1, inventa un poema corto con las palabras tocino y lancha motora",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 328,
+            "texto": "jugador1, di las últimas 14 letras del abecedario empezando por el final, tienes 15 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 329,
+            "texto": "jugador1, dale un beso en la frente a jugador2",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 330,
+            "texto": "jugador1, dale un beso en la mejilla a jugador2",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 331,
+            "texto": "jugador1, cierra los ojos y y deja que jugador2 dibuje en tu espalda algo, tienes que adivinar qué es",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 332,
+            "texto": "jugador1, imita a un famoso y jugador2 debe adivinar quién es",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 333,
+            "texto": "jugador1, imita al animal que jugador2 elija",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 334,
+            "texto": "jugador1, habla sin abrir la boca hasta tu siguiente turno",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 335,
+            "texto": "jugador1, hasta tu próximo turno cada vez que alguien diga algo que es verdad, grita: ¡mentisoso!",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 336,
+            "texto": "jugador1, inventa una canción de 30 segundos sobre jugador2",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 337,
+            "texto": "jugador1, abraza a jugador2 durante 30 segundos, mientras le susurras sensualmente al oído la tabla de multiplicar del 3",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 338,
+            "texto": "jugador1, llama a un amigo y cuando te conteste, cuelga la llamada",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 339,
+            "texto": "jugador1, choca los cinco a cada uno de los presentes, cada vez que lo hagas tanto tú como la persona a la que le chocas la mano debéis gritar ¡¡YEEEAAHH!!",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 340,
+            "texto": "jugador1, cuenta un chiste al grupo, si nadie se ríe pierdes la prueba, sino te sabes ninguno, invéntalo",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 341,
+            "texto": "jugador1, da 20 saltos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 342,
+            "texto": "jugador1, toma una selfie con todos los presentes, tú tienes que tomar la foto",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 343,
+            "texto": "jugador1, juega a piedra, papel o tijera con jugador2, si pierdes, no superas la prueba",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 344,
+            "texto": "jugador1, dile cosas bonitas a jugador2 durante 30 segundos, mientras lo haces debes mirarle a su culo, sin decir nada de su culo",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 345,
+            "texto": "jugador1, venda tus ojos, te van a acompañar para intercambiar tu sitio con uno de los presentes, una vez intercambiado, tienes 30 segundos para saber a quién has cambiado o al menos saber una de las personas que tienes a tu lado",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 346,
+            "texto": "jugador1, tienes que hacer durante 30 segundos lo que te diga jugador2",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 347,
+            "texto": "jugador1, los demás jugadores deben cantar a coro la canción que tú digas, durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 348,
+            "texto": "jugador1, muestra a todo el mundo la marca de ropa interior que llevas puesta",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 349,
+            "texto": "jugador1, tienes 15 segundos para nombrar 4 frutas que sean rojas",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 350,
+            "texto": "jugador1, actúa como un gato durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 351,
+            "texto": "jugador1, intenta hacer un truco de magia, aunque sea absurdo",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 352,
+            "texto": "jugador1, control policial, muestra todo lo que tienes en los bolsillos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 353,
+            "texto": "jugador1, cierra los ojos hasta que finalice el siguiente turno",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 354,
+            "texto": "jugador1, imagina que jugador2 es tu mascota, durante 30 segundos háblale como si acabaras de llegar a casa",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 355,
+            "texto": "jugador1, deja que jugador2 te peine el pelo",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 356,
+            "texto": "jugador1, baila twerk durante 30 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 357,
+            "texto": "jugador1, envía un mensaje de texto dicendo te quiero a la persona que elijas y debes enseñar su respuesta",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 358,
+            "texto": "jugador1, llama a alguien por teléfono y dile que siempre te ha gustado",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 359,
+            "texto": "jugador1, di frases sobre ti, dos verdaderas y una falsa, jugador2 debe adivinar cuál es la falsa, si la adivina pierdes",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 360,
+            "texto": "jugador1, llama a alguien para cantarle una canción elegida por los demás jugadores y cuelga en 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 361,
+            "texto": "jugador1, haz un masaje en los hombros a jugador2 durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 362,
+            "texto": "jugador1, haz tantas sentadillas como edad tengas",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 363,
+            "texto": "jugador1, debes de simular ser tartamudo hasta tu próximo turno",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 364,
+            "texto": "jugador1, califica la personalidad de todos los presentes en una escala de 1 a 10",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 365,
+            "texto": "jugador1, finge que eres un bebe que está naciendo durante 15 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 366,
+            "texto": "jugador1, finge que estás de parto durante 15 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 368,
+            "texto": "jugador1, grita la primera frase que se te ocurra",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 369,
+            "texto": "jugador1, hasta la siguiente ronda, comunícate con los demás usando un acento extranjero",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 370,
+            "texto": "jugador1, quitate la camiseta y póntela del revés",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 371,
+            "texto": "jugador1, pon tu mano en la parte interior del muslo de la persona que tienes a tu lado hasta tu próximo turno",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 372,
+            "texto": "jugador1, imita a un youtuber durante 30 segundos, jugador2 debe adivinar quién es",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 373,
+            "texto": "jugador1, mantén los ojos cerrados hasta el siguiente turno",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 374,
+            "texto": "jugador1, deja que los jugadores te tatuen el brazo con un bolígrafo durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 377,
+            "texto": "jugador1, acerca tu cara a la de jugador2 durante 15 segundos, no podeis tocaros",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 378,
+            "texto": "jugador1, dale un beso en el cuello a jugador2",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 379,
+            "texto": "jugador1, acurrucarse con jugador2 durante 30 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 380,
+            "texto": "jugador1, define tu amante ideal mientras das saltos en el aire durante 30 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 383,
+            "texto": "jugador1, dale una cachetada a jugador2",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 384,
+            "texto": "jugador1, besa la barriga de jugador2",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 385,
+            "texto": "jugador1, imita a un mono durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 386,
+            "texto": "jugador1, enseña a todos tu emoji más usado",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 387,
+            "texto": "jugador1, actúa como sino entendieras tu propio idioma los dos próximos turnos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 388,
+            "texto": "jugador1, tararea una canción durante 30 segundos, si jugador2 adivina la canción, pasas la prueba",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 289,
+            "texto": "jugador1, salta tu turno",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 390,
+            "texto": "jugador1, durante 15 segundos muestra la lengua a tus jugadores mientras miras hacia arriba y haces gestos locos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 392,
+            "texto": "jugador1, ladra como un perro durante 15 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 393,
+            "texto": "jugador1, estás en un casting para un papel de un personaje muy triste y dramático, durante 30 segundos demuestra que eres el actor perfecto para el papel",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 394,
+            "texto": "jugador1, estás en un casting para un papel de un personaje de terror, durante 30 segundos demuestra que eres el actor perfecto para el papel",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 395,
+            "texto": "jugador1, estás en un casting para un papel de vaquero del oeste, durante 30 segundos demuestra que eres el actor perfecto para el papel",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 396,
+            "texto": "jugador1, usa un tono de canto cada vez que hables hasta tu próximo turno",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 397,
+            "texto": "jugador1, piensa una película, jugador2 debe adivinarla, sólo puedes usar gestos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 399,
+            "texto": "jugador1, piensa en un video que creas que los demás conocen, tienes que imitarlo durante 30 segundos, si el resto de jugadores adivina el video, pasas la prueba",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 400,
+            "texto": "jugador1, eres el presidente de los estados unidos, tienes que dar un discurso motivador a tu pueblo, durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 401,
+            "texto": "jugador1, eres el presidente de españa, jugador2 te va a abuchear, tienes que elegir dos jugadores para que te escolten durante 30 segundos, jugador2 te intentará tocar, si lo consigue, pierdes la prueba",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 403,
+            "texto": "jugador1, da veinte saltos a la pata coja",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 404,
+            "texto": "jugador1, tienes que callar a un bebé que está llorando, el bebé es jugador2, durante 30 segundos tienes que intentar que el bebé deje de llorar, para ello tendrás que hacerle caras y gestos graciosos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 409,
+            "texto": "jugador1, perrea durante 30 segundos a jugador2",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 410,
+            "texto": "jugador1, sientate encima de jugador2 hasta tu próximo turno",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 411,
+            "texto": "jugador1, recibe un azote del jugador que tengas a tu izquierda",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 412,
+            "texto": "jugador1, haz como que estás en el baño haciendo de vientre muy estreñido, durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 414,
+            "texto": "jugador1, reta a jugador2 a no parpadear, si jugador2 parpadea primero, superas la prueba",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 417,
+            "texto": "jugador1, camina como un pingüino durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 418,
+            "texto": "jugador1, resiste un minuto sin parpadear",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 420,
+            "texto": "jugador1, di tres palabras que terminen en: ENE",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 421,
+            "texto": "jugador1, ponte a cuatro hasta tu próximo turno",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 422,
+            "texto": "jugador1, rapea en modo freestyle durante 45 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 423,
+            "texto": "jugador1, imita un cerdo durante 15 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 424,
+            "texto": "jugador1, habla con acento francés hasta tu próximo turno",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 426,
+            "texto": "jugador1, imita un cantante de ópera durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 427,
+            "texto": "jugador1, ríe todo lo que puedas durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 428,
+            "texto": "jugador1, baila como un robot durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 429,
+            "texto": "jugador1, habla con la voz grave hasta tu próximo turno",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 430,
+            "texto": "jugador1, habla con la voz aguda hasta tu próximo turno",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 431,
+            "texto": "jugador1, camina como si fueras un modelo de pasarela durante 30 segundos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 432,
+            "texto": "jugador1, olfatea la axila de jugador2 y di si huele bien o mal",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 433,
+            "texto": "jugador1, jugador2 es tu ex, di tres cosas que te gustaban de él/ella mirándole a los ojos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 434,
+            "texto": "jugador1, tienes que simular durante 30 segundos que estás muy fumado",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 435,
+            "texto": "jugador1, tienes que adivinar una palabra que diga jugador2, pero jugador2 tendrá la boca tapada por jugador3, tienes 15 segundos para descifrar la palabra",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 5,
+            "jugadores": 3,
+            "estado" : true
+        },
+        {
+            "id" : 437,
+            "texto": "jugador1, haz el paso de Rauw Alejandro",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 438,
+            "texto": "jugador1, abre tu instagram y elige una historia al azar e imita la historia",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 439,
+            "texto": "jugador1, sientate y simula que vas conduciendo un coche y que de repente tienes un accidente",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 440,
+            "texto": "jugador1, agarra con una mano el cuello de jugador2 muy suavemente y por los lados, y dile un insulto o un piropo mirándole a los ojos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 441,
+            "texto": "jugador1, hasta dentro de tus próximos dos turnos quédate de pie y no te sientes",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 442,
+            "texto": "jugador1, abraza a jugador2. Pero conforme os acerquéis para abrazaros poned mucha cara de asco",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 447,
+            "texto": "jugador1, simula durante 15 segundos que estás morreandote con tu crush, para ello utiliza tu brazo o tu mano",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 449,
+            "texto": "jugador1, besa a alguien del sexo opuesto en el cuello",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 452,
+            "texto": "jugador1, hazle twerk en la cara a jugador2",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 453,
+            "texto": "jugador1, apoya la cabeza en la entrepierna de jugador2 durante 15 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 454,
+            "texto": "jugador1, abre tik tok e imita el primer video que veas",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 456,
+            "texto": "jugador1, haz una pelea de pulgares con jugador2, quién pierda recibe una cachetada",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 457,
+            "texto": "jugador1, hasta tu siguiente turno tienes que hablar cantando",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 458,
+            "texto": "Durante 30 segundos pon sobre tu cabeza algo que los demás jugadores elijan, pasarás la prueba sino se te cae",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 459,
+            "texto": "jugador1, chúpale el dedo a alguien durante 15 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 460,
+            "texto": "jugador1, elige a dos personas sentadas juntas, deben cogerse de una mano durante los dos siguientes turnos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 461,
+            "texto": "jugador1, pon algo en alguna de tus manos, jugador2 debe adivinar en que mano lo tienes, pasas la prueba si falla",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 462,
+            "texto": "jugador1, aguanta un cubito de hielo en tu boca 30 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 463,
+            "texto": "jugador1, elige a alguien para que mantenga en su boca un cubito de hielo durante 30 segundos, si lo logra pasas la prueba sino la fallas",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 464,
+            "texto": "jugador1, ponte de pié, baila la macarena durante los dos siguientes turnos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 467,
+            "texto": "jugador1, elige a un alguien de los presentes para susurrurale o decirle algo en el oído, si le da repelús, se ríe o se aparta pasas la prueba",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 468,
+            "texto": "jugador1, mete un dedo en la taza del water",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 469,
+            "texto": "jugador1, tienes 15 segundos para contar todas las vocales de tu nombre y apellidos",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 471,
+            "texto": "jugador1, dale un pico a la persona de la habitación con la que más tiempo ha pasado desde que se conocieron",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 472,
+            "texto": "jugador1, dale un pico a la persona de la habitación con la que menos tiempo ha pasado desde que se conocieron",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 473,
+            "texto": "jugador1, dile al oído a la persona de tu derecha que opinión tienes de ella",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 474,
+            "texto": "jugador1, di en voz alta lo que piensas del jugador2",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion":3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 475,
+            "texto": "jugador1, ¿cuánto dinero estarías dispuesto a pagar por unas zapatillas?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 476,
+            "texto": "jugador1, ¿cuánto es lo máximo que te has gastado en unas zapatillas?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 477,
+            "texto": "jugador1, enseña de pasada 15 videos de tik tok en tu móvil",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 478,
+            "texto": "jugador1, ¿has hecho el amor alguna vez en la cocina?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 479,
+            "texto": "jugador1, ¿alguna vez has usado aceite de masaje?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 480,
+            "texto": "jugador1, ¿alguna vez has mandado un mensaje subido de tono a alguien por error?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 481,
+            "texto": "jugador1, ¿has dicho alguna vez cosas bonitas solo por hacer el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 482,
+            "texto": "jugador1, ¿alguna vez te has grabado haciendo el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 483,
+            "texto": "jugador1, ¿has tenido alguna vez algo con alguien casado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 484,
+            "texto": "jugador1, ¿alguna vez has ido a buscar fotos sin ropa de alguien en específico en internet?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 485,
+            "texto": "jugador1, ¿alguna vez has practicado o te han practicado el amor oral mientras ibas con el coche en marcha?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 486,
+            "texto": "jugador1, ¿te has enamorado de alguien tras acostarte varias veces con esa persona?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 487,
+            "texto": "jugador1, ¿has hecho el amor alguna vez con los calcetines puestos?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 488,
+            "texto": "jugador1, ¿alguna vez has recibido un piropo solo por tu zona íntima?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 489,
+            "texto": "jugador1, ¿alguna vez has hecho el amor en una discoteca o fiesta?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 490,
+            "texto": "jugador1, ¿has usado alguna vez comida mientras hacías el amor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 491,
+            "texto": "jugador1, ¿te has tocado más de una vez en un mismo día?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 492,
+            "texto": "jugador1, ¿has visto a alguien desnudo por descuido y has seguido mirando?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 493,
+            "texto": "jugador1, ¿te has colado alguna vez en una discoteca?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 494,
+            "texto": "jugador1, ¿alguna vez has pasado una semana sin ducharte?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 495,
+            "texto": "jugador1, ¿alguna vez te ha atraído un personaje de ficción o de dibujos animados?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 496,
+            "texto": "jugador1, ¿alguna vez has tenido que dejar un examen o pausarlo porque necesitabas ir al baño urgentemente?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 497,
+            "texto": "jugador1, ¿alguna vez has tenido diarrea en casa de un amigo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 498,
+            "texto": "jugador1, ¿alguna vez has editado tu cara en una foto?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 499,
+            "texto": "jugador1, ¿has tenido alguna vez una experiencia paranormal?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 500,
+            "texto": "jugador1, ¿alguna vez has llorado de mentira para conseguir algo?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 501,
+            "texto": "jugador1, ¿alguna vez has culpado a un amigo por algo que has hecho tú?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 502,
+            "texto": "jugador1, ¿tienes o has tenido redes sociales falsas? Para stalkear o para ligar por ejemplo",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 503,
+            "texto": "jugador1, ¿alguna vez has dado un nombre falso?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 504,
+            "texto": "jugador1, ¿alguna vez te has sentido ridículo al intentar ligar con alguien?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 505,
+            "texto": "jugador1, ¿has dejado a alguien plantado en una cita?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 506,
+            "texto": "jugador1, ¿alguna vez has hecho que alguien tenga que ir al hospital?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 507,
+            "texto": "jugador1, ¿alguna vez has ido en pijama y zapatillas por la calle?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 508,
+            "texto": "jugador1, ¿te has enamorado alguna vez de un profesor o profesora?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 509,
+            "texto": "jugador1, ¿has estado alguna vez esposado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 510,
+            "texto": "jugador1, ¿has jugado alguna vez a la Ouija?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 511,
+            "texto": "jugador1, huele el cabello de jugador2",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 512,
+            "texto": "jugador1, haz tres sentadillas de con los pies de puntillas",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 513,
+            "texto": "jugador1, llama a un sitio de comida rápida y di si te pueden mandar un taxi a casa",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 514,
+            "texto": "jugador1, representa el climax del sexo opuesto",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 515,
+            "texto": "jugador1, haz una batalla de rap con jugador2 durante 60 segundos, 30 segundos cada uno, los demás deciden quién gana",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 516,
+            "texto": "jugador1, eligue quién dará un beso en tu pecho o torso",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 517,
+            "texto": "jugador1, haz como si hicieras el amor a cámara lenta durante 30 segundos, los demás deciden si lo haces bien o no",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 518,
+            "texto": "jugador1, harás a quién tenga un tatuaje un masaje durante 30 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 519,
+            "texto": "jugador1, harás a quién tenga un piercing un masaje durante 30 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 520,
+            "texto": "jugador1, envíale un mensaje de texto a tu madre diciéndole que estás embarazada o que vas a ser padre",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 521,
+            "texto": "jugador1, dale la vuelta a tus pantalones y póntelos así durante el juego",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 522,
+            "texto": "jugador1, cierra los ojos hasta que jugador2 te diga, uno de los presentes te va a tocar en alguna parte de ti, debes adivinar quién es",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 523,
+            "texto": "jugador1, tienes que llamar a alguien por videollamada, y no le digas nada, tan solo pegate a la cámara y besala durante 15 segundos y cuelga sin decir nada",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 524,
+            "texto": "jugador1, con las manos pegadas a tu cuerpo, sin poder hablar, pero pudiendo moverte, imita un animal durante 30 segundos, jugador2 debe adivinar qué animal eres",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 525,
+            "texto": "jugador1, di el número de personas con el que acostarías de los presentes, solo el número",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 526,
+            "texto": "jugador1, di el número de personas con las que no te acostarías de los presentes, solo el número",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 527,
+            "texto": "jugador1, imita una película de marvel durante 30 segundos sin hablar, los demás deben adivinar cuál es",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 528,
+            "texto": "jugador1, imita una película de disney durante 30 segundos sin hablar, los demás deben adivinar cuál es",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 529,
+            "texto": "jugador1, imita una serie o película de dibujos animados durante 30 segundos sin hablar, los demás deben adivinar cuál es",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 530,
+            "texto": "jugador1, imita una ciudad durante 30 segundos sin hablar, los demás deben adivinar cuál es",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 531,
+            "texto": "jugador1, cierra los ojos, jugador2 y jugador3 te van a dar un beso en la mejilla, debes adivinar en qué mejilla te han besado, si aciertas, superas la prueba",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 3,
+            "estado" : true
+        },
+        {
+            "id" : 532,
+            "texto": "jugador1, vas a iniciar el teléfono escacharrado, dile al jugador de tu derecha una frase de más de siete palabras diferentes, y que la repita al jugador de su derecha, y así sucesivamente, hasta que llegue al jugador de tu izquierda, que debe decir la frase que le ha llegado a él, si la frase es correcta, superas la prueba",
+            "tipo": 1,
+            "categoria": 0,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 533,
+            "texto": "jugador1, califica del 1 al 10 a todos los jugadores, bajo el criterio que quieras, jugador2 debe adivinar qué criterio has usado",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 534,
+            "texto": "jugador1, predice el futuro de jugador2",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 2,
+            "estado" : true
+        },
+        {
+            "id" : 535,
+            "texto": "jugador1, habla como un gánster durante los siguientes tres turnos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 536,
+            "texto": "jugador1, baila con una escoba o una fregona durante 30 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 537,
+            "texto": "jugador1, imagina que eres una gallina que va a poner un huevo durante 15 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 538,
+            "texto": "jugador1, baila hip hop durante 30 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 539,
+            "texto": "jugador1, califica a todos del 1 al 10, siendo el 10 el más caliente",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 540,
+            "texto": "jugador1, di la tabla de multiplicar del 7",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 541,
+            "texto": "jugador1, baila un flamenco intenso durante 15 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 542,
+            "texto": "jugador1, haz un tocado con papel del baño o de cocina y posa para una foto",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 543,
+            "texto": "jugador1, imita un acento chino los siguientes tres turnos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 544,
+            "texto": "jugador1, haz tu mejor danza del vientre durante 30 segundos",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 545,
+            "texto": "jugador1, vacía tu bolso o mochila y enséñanos lo que llevas dentro",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 546,
+            "texto": "jugador1, da like a una foto con más de un año publicada por alguien que dio like a tu última foto de instagram, no puede ser alguien de los presentes",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 547,
+            "texto": "jugador1, tienes 15 segundos para buscar un juguete sexual en internet y enseñarlo",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 548,
+            "texto": "jugador1, da un grito fuerte",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 549,
+            "texto": "jugador1, muestra tu historial de instagram",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 550,
+            "texto": "jugador1, llama a tu madre y dile que la amas con el altavoz activado",
+            "tipo": 1,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 551,
+            "texto": "jugador1, ¿alguna vez has querido tirarte a la madre o el padre de un amigo o amiga?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 552,
+            "texto": "jugador1, ¿alguna vez has querido tirarte al hermano o hermana de un amigo o amiga?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 553,
+            "texto": "jugador1, ¿alguna vez has tenido fantasías sexuales con alguien que considerabas poco atractivo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 554,
+            "texto": "jugador1, ¿alguna vez lo has hecho a pelo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 555,
+            "texto": "jugador1, ¿alguna vez has acabado en la boca de alguien o te han acabado en la boca?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 556,
+            "texto": "jugador1, ¿alguna vez has querido tirarte al novio o novia de un amigo o amiga?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 557,
+            "texto": "jugador1, ¿alguna vez te han pedido que fueses más lento porque ibas demasiado rápido?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 558,
+            "texto": "jugador1, ¿alguna vez te han pedido que fueses más rápido porque ibas demasiado lento?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 559,
+            "texto": "jugador1, ¿has dejado con las ganas a alguien?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 560,
+            "texto": "jugador1, ¿te han dejado alguna vez con las ganas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 561,
+            "texto": "jugador1, ¿has discutido alguna vez antes de hacerlo por la luz, si encenderla o apagarla?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 562,
+            "texto": "jugador1, ¿te has encontrado alguna vez en la boca un pelo tras un oral?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 563,
+            "texto": "jugador1, ¿te han puesto alguna vez los cuernos?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 564,
+            "texto": "jugador1, ¿te has liado con dos personas de distinto sexo en una misma noche?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 565,
+            "texto": "jugador1, ¿te has liado con alguien y te has arrepentido al momento?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 566,
+            "texto": "jugador1, ¿has tenido sexo por pena?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 567,
+            "texto": "jugador1, ¿te has tirado a un ex?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 568,
+            "texto": "jugador1, ¿te han pillado alguna vez en el acto sexual?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 569,
+            "texto": "jugador1, ¿has hecho el amor en un lugar público?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 570,
+            "texto": "jugador1, ¿has hecho el amor en una cama que no era tuya?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 571,
+            "texto": "jugador1, ¿lo has hecho con más gente alrededor?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 572,
+            "texto": "jugador1, ¿has hecho un trio?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 573,
+            "texto": "jugador1, ¿alguna vez has tenido fantasías sexuales con hacerlo con tu pareja y otra persona?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 574,
+            "texto": "jugador1, ¿te has tocado con un un objeto inanimado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 575,
+            "texto": "jugador1, ¿te has hecho alguna vez daño mientras te tocabas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 576,
+            "texto": "jugador1, ¿alguna vez te has decepcionado al liarte o tirarte a alguien con quien tenías muchas ganas de hacerlo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 577,
+            "texto": "jugador1, ¿alguna vez has practicado sadomasoquismo o has usado objetos relacionados?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 578,
+            "texto": "jugador1, ¿alguna vez intentaste anal y no salió como esperabas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 579,
+            "texto": "jugador1, ¿has practicado un anal?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 580,
+            "texto": "jugador1, ¿te has liado o tirado a alguien que tenía más de 5 años que tú?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 581,
+            "texto": "jugador1, ¿te han hecho o has hecho un chupetón en un lugar poco común?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 582,
+            "texto": "jugador1, ¿has visto contenido para adultos con otra persona?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 583,
+            "texto": "jugador1, ¿te has tocado alguna vez con una película que no fuera para adultos?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 584,
+            "texto": "jugador1, ¿alguna vez has tenido o han tenido contigo un gatillazo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 585,
+            "texto": "jugador1, ¿lo has hecho alguna vez con la regla?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 586,
+            "texto": "jugador1, ¿te liarías con más de dos personas de las presentes?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 587,
+            "texto": "jugador1, ¿lo has hecho alguna vez disfrazado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 588,
+            "texto": "jugador1, ¿te has liado con una persona con la que estaba intentando ligar tu amigo o amiga?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 589,
+            "texto": "jugador1, ¿alguna vez te lo has tragado o se te lo han tragado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 590,
+            "texto": "jugador1, ¿te has excitado en algún momento muy poco apropiado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 591,
+            "texto": "jugador1, ¿alguna vez se te ha roto el preservativo en pleno acto sexual?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 592,
+            "texto": "jugador1, ¿has estado más de un año sin tener relaciones sexuales desde la última vez?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 593,
+            "texto": "jugador1, ¿has puesto o te han puesto un preservativo con la boca?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 594,
+            "texto": "jugador1, ¿has usado comida en el acto sexual?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 595,
+            "texto": "jugador1, ¿alguna vez has tenido que comprar o usar la pastilla del día después?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 596,
+            "texto": "jugador1, ¿has tenido sexo por teléfono?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 597,
+            "texto": "jugador1, ¿has tenido alguna vez que ir corriendo a buscar tu ropa porque acababan de tocar al timbre?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 598,
+            "texto": "jugador1, ¿has parado de liarte o tirarte a alguien para preguntarle a esa persona como se llamaba?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 599,
+            "texto": "jugador1, ¿te has tirado al ex de un amigo o amiga?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 600,
+            "texto": "jugador1, ¿le has mentido sobre tus experiencias sexuales a alguien alguna vez?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 601,
+            "texto": "jugador1, ¿has tenido que enseñar o has enseñado alguna vez como desabrochar un sujetador?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 602,
+            "texto": "jugador1, ¿has tenido problemas alguna vez desabrochando un sujetador?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 603,
+            "texto": "jugador1, ¿has tenido fantasías sexuales con un profesor o profesora?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 604,
+            "texto": "jugador1, ¿has pillado alguna vez a tus padres en el acto sexual?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 605,
+            "texto": "jugador1, ¿te has sacado fotos desnudo o desnuda?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 606,
+            "texto": "jugador1, ¿alguna vez has lamido o te han lamido el culo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 607,
+            "texto": "jugador1, ¿lo has hecho alguna vez en la ducha o en la bañera?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 608,
+            "texto": "jugador1, ¿has usado alguna vez el kamasutra para aprender nuevas posiciones en la cama?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 609,
+            "texto": "jugador1, ¿lo has hecho alguna vez con alguien que era virgen?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 610,
+            "texto": "jugador1, ¿alguna vez has medido o te has medido el pene?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 611,
+            "texto": "jugador1, ¿has borrado alguna vez conversaciones subidas de tono para que no te pillasen?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 612,
+            "texto": "jugador1, ¿te has liado o tirado a alguien poco atractivo porque estabas desesperado o desesperada?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 613,
+            "texto": "jugador1, ¿alguna vez has creído haber contraído una enfermedad de tranmisión sexual?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 614,
+            "texto": "jugador1, ¿has fingido o exagerado un orgasmo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 615,
+            "texto": "jugador1, ¿has tenido algún follamigo o follamiga?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 616,
+            "texto": "jugador1, ¿has salido de casa sin ropa interior?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 617,
+            "texto": "jugador1, ¿te has liado alguna vez con un extranjero o extranjera?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 618,
+            "texto": "jugador1, ¿has sentido envidia al ver los genitales de un amigo o amiga?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 619,
+            "texto": "jugador1, ¿has hecho o te han hecho una mamada con preservativo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 620,
+            "texto": "jugador1, ¿has usado hielo alguna vez en el acto sexual?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 621,
+            "texto": "jugador1, ¿alguna vez has pedido que cumplan con un fetiche tuyo y no lo han hecho?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 622,
+            "texto": "jugador1, ¿has intentado esconder alguna vez una erección en público?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 623,
+            "texto": "jugador1, ¿alguna vez has tenido una erección en público y te han pillado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 624,
+            "texto": "jugador1, ¿te gusta la violencia suave en la cama?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 2,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 625,
+            "texto": "jugador1, ¿te has tirado un pedo en el acto sexual alguna vez?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 626,
+            "texto": "jugador1, ¿le has roto la ropa a alguien intentando quitársela?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 627,
+            "texto": "jugador1, ¿has intentado que una pareja rompiera?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 628,
+            "texto": "jugador1, ¿has querido que una pareja rompiera?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 629,
+            "texto": "jugador1, ¿has hecho o te han hecho una cubana?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 630,
+            "texto": "jugador1, ¿te has tocado viendo hentai?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 631,
+            "texto": "jugador1, ¿has aceptado alguna vez algo por dinero?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 632,
+            "texto": "jugador1, ¿te has metido o te han metido un dedo en el culo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 633,
+            "texto": "jugador1, ¿te has metido o te han metido más de tres dedos?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 634,
+            "texto": "jugador1, ¿lo has hecho en un coche y sonó la bocina?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 635,
+            "texto": "jugador1, ¿te han tenido que enseñar una foto de con quien te habías liado porque no te acordabas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 636,
+            "texto": "jugador1, ¿te has depilado alguna vez pensando que ibas a tener sexo y no ha pasado nada?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 637,
+            "texto": "jugador1, ¿has querido unirte a dos amigos mientras tenían sexo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 638,
+            "texto": "jugador1, ¿has hecho alguna vez una lista de todos los tios o tias con los que te has liado?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 639,
+            "texto": "jugador1, ¿has conseguido liarte o tirarte a un amor platónico?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 640,
+            "texto": "jugador1, ¿has tenido que usar dos o más condones en una misma ronda?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 641,
+            "texto": "jugador1, ¿lo has hecho en todos los cuartos de tu casa?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 642,
+            "texto": "jugador1, ¿has usado alguna vez Chatroulette u Omegle para ver gente desnuda?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 643,
+            "texto": "jugador1, ¿te has liado o tirado a alguien que te caía mal?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 644,
+            "texto": "jugador1, ¿te han acabado o has acabado encima del cuerpo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 645,
+            "texto": "jugador1, ¿te han dado una hostia por tirar la caña?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 646,
+            "texto": "jugador1, ¿te has arrependido de haber perdido la virginidad con quien la perdiste?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 647,
+            "texto": "jugador1, ¿te has liado con alguien que acababa de vomitar?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 648,
+            "texto": "jugador1, ¿te ha puesto cachondo alguien mucho menor que tú?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 649,
+            "texto": "jugador1, ¿has salido con alguien con quien sabías que no iba a durar mucho?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 650,
+            "texto": "jugador1, ¿has hecho un 69?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 651,
+            "texto": "jugador1, ¿lo has hechos con tus/sus padres cerca?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 652,
+            "texto": "jugador1, ¿has ligado con alguien para poner celoso a otra persona?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 653,
+            "texto": "jugador1, ¿te has resbalado mientras lo hacías en la ducha?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 654,
+            "texto": "jugador1, ¿le has dicho a alguien te quiero solo para tener sexo con esa persona?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 655,
+            "texto": "jugador1, ¿te han hecho o has hecho sangrar al meter dedos?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 656,
+            "texto": "jugador1, ¿has echado un polvo muy malo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 657,
+            "texto": "jugador1, ¿te has masturbado más de 5 veces en un día?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 658,
+            "texto": "jugador1, ¿alguna vez has pensado que el sexo oral es asqueroso?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 659,
+            "texto": "jugador1, ¿has pensado que el sexo oral es mejor que la penetración?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 660,
+            "texto": "jugador1, ¿lo has hecho con alguien que tenía el pene pequeño?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 661,
+            "texto": "jugador1, ¿has usado condones de sabores?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 662,
+            "texto": "jugador1, ¿te han o has terminado dentro sin condón?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 663,
+            "texto": "jugador1, ¿te han o has terminado dentro con condón",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 664,
+            "texto": "jugador1, ¿te has guardado las fotos de tu ex desnudo/a después de cortar?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 665,
+            "texto": "jugador1, ¿has usado la marcha atrás como método anticonceptivo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 666,
+            "texto": "jugador1, ¿te has liado con alguien con pareja?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 667,
+            "texto": "jugador1, ¿te ha tirado la caña el familiar de tu pareja?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 668,
+            "texto": "jugador1, ¿has mandado a la friendzone a alguien tras haberte liado con él o ella?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 669,
+            "texto": "jugador1, ¿te has alegrado de algo malo que le haya pasado a tu ex?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 670,
+            "texto": "jugador1, ¿te has liado con alguien de tu clase o trabajo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 671,
+            "texto": "jugador1, ¿te han hecho una cobra?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 672,
+            "texto": "jugador1, ¿has hecho una cobra?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 673,
+            "texto": "jugador1, ¿te has arrepentido de hacerte un tatuaje o piercing?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 674,
+            "texto": "jugador1, ¿te has hecho un tatuaje o piercing sin que tus padres lo supieran?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 675,
+            "texto": "jugador1, ¿te ha dado más morbo hacerlo fuera de casa que dentro?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 676,
+            "texto": "jugador1, ¿te has quedado dormido durante el sexo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 677,
+            "texto": "jugador1, ¿te has enamorado de alguien con pareja?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 678,
+            "texto": "jugador1, ¿te han llamado la atención los vecinos por hacer demasiado ruido durante el sexo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 679,
+            "texto": "jugador1, ¿has cortado con alguien porque el sexo era malo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 680,
+            "texto": "jugador1, ¿has roto una cama o mueble mientras lo hacías?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 681,
+            "texto": "jugador1, ¿has agarrado o te han agarrado fuerte del pelo durante el sexo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 682,
+            "texto": "jugador1, ¿has aguantado o te han aguantado menos de 5 minutos en la cama?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 683,
+            "texto": "jugador1, ¿lo has hecho más de dos veces seguidas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 684,
+            "texto": "jugador1, ¿te han despertado o has despertado con una mamada o polvo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 685,
+            "texto": "jugador1, ¿te has tocado mientras hacías videollamada con alguien?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 686,
+            "texto": "jugador1, ¿te has creado una cuenta falsa en alguna red social para ver lo que hacía tu ex sin que se enterara?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 687,
+            "texto": "jugador1, ¿te han pillado un chupetón tus padres?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 688,
+            "texto": "jugador1, ¿te has tapado o maquillado un chupetón para que nadie lo viera?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 689,
+            "texto": "jugador1, ¿has visto porno de hermanastros/padrastros/madrastras?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 690,
+            "texto": "jugador1, ¿has hecho o te han hecho garganta profunda?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 691,
+            "texto": "jugador1, ¿te has sentido mal contigo mismo después de tocarte?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 692,
+            "texto": "jugador1, ¿has fracasado al querer hacer una videollamada porno con alguien?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 693,
+            "texto": "jugador1, ¿has fingido alguna vez ser de otro lugar?",
+            "tipo": 0,
+            "categoria": 0,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 694,
+            "texto": "jugador1, ¿has tenido sexo interracial?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 695,
+            "texto": "jugador1, ¿te has sentido furstrado porque no te satisfacia el sexo xon una persona a quién querías?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 4,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 696,
+            "texto": "jugador1, ¿te has masturbado en grupo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 697,
+            "texto": "jugador1, ¿te has obsesionado con alguien después de haberte liado con él o ella?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 698,
+            "texto": "jugador1, ¿has lamido unos pezones?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 699,
+            "texto": "jugador1, ¿te han lamido los pezones?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 700,
+            "texto": "jugador1, ¿has cortado con alguien para salir con otra persona?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 701,
+            "texto": "jugador1, ¿han cortado contigo para salir con otra persona?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 5,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 702,
+            "texto": "jugador1, ¿lo has hecho estando malo?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 703,
+            "texto": "jugador1, ¿te has querido tirar a tu mejor amigo o amiga?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 704,
+            "texto": "jugador1, ¿has preferido culos que tetas?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        },
+        {
+            "id" : 705,
+            "texto": "jugador1, ¿alguna vez has pensado que te casarías con tu ex o tu actual pareja?",
+            "tipo": 0,
+            "categoria": 1,
+            "puntuacion": 3,
+            "jugadores": 1,
+            "estado" : true
+        }
+    ]
+}
+
