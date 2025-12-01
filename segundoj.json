@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.5",
   "juegos": [
     {
       "id": 0,
@@ -489,7 +489,8 @@
         "Programa",
         "Llave de coche",
         "Copa",
-        "Navidad"
+        "Navidad",
+        "Escaleras"
       ]
     },
     {
@@ -638,7 +639,21 @@
         "Entrecot",
         "Cinta adhesiva",
         "Brasil",
-        "Burka"
+        "Burka",
+        "Minecraft",
+        "Play Station 5",
+        "Nintendo",
+        "Alberto Chicote",
+        "Manolo Escobar",
+        "Mariano Rajoy",
+        "Ibai",
+        "Messi",
+        "Amador Rivas",
+        "Maite Figueroa",
+        "Antonio Recio",
+        "Estela Reynolds",
+        "Enrique Pastor",
+        "Fermín Trujillo"
       ]
     }
   ]
